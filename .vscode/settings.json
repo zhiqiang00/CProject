@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "code-runner.executorMap": {
+        "cpp": "$dir && g++ -std=c++14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        },
+        "files.associations": {
+            "ostream": "cpp"
+        }
+
+}
